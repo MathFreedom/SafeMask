@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Builds/archives
+dist/
+build/
+*.zip
+
+# Env
+.env
+
+# SafeMask exports
+*.safemap
+
