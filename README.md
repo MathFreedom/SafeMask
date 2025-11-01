@@ -10,7 +10,21 @@ SafeMask solves this, locally. It anonymizes your text on the device, before you
 Paste. Anonymize. Share. Copy back. De‑anonymize when needed, all locally.
 
 **Demo video:**
+
  https://www.youtube.com/watch?v=nW7QPgtpqM8
+
+
+<details>
+  <summary><strong>Play inline (MP4)</strong></summary>
+
+<p>
+  <video src="docs/SafeMask.mp4" controls playsinline muted preload="metadata" width="800"></video>
+  <br/>
+  <em>If the player doesn’t load:</em> <a href="https://raw.githubusercontent.com/MathFreedom/SafeMask/main/docs/SafeMask.mp4">Download/Watch the MP4</a>
+  
+</p>
+
+</details>
 
 
 ### Key Benefits
