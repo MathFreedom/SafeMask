@@ -1,4 +1,4 @@
-
+![Bannrt SafeMask](docs/banner.png)
 ## SafeMask — Local PII & Secrets Anonymizer for the Chrome Built‑in AI Challenge 2025
 
 ### Why SafeMask
